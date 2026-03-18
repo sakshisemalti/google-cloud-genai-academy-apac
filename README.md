@@ -6,7 +6,6 @@
 ![Gemini](https://img.shields.io/badge/Gemini_AI-8E44AD?style=for-the-badge&logo=google&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-In_Progress-F4B400?style=for-the-badge)
 
-**Participant: Sakshi**  
 Tracking my learning journey, codelabs, and projects across all 3 tracks of the Google Cloud GenAI Academy APAC Edition.
 
 </div>
