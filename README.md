@@ -15,7 +15,7 @@ Tracking my learning journey, codelabs and projects across all 3 tracks of the G
 
 ## 📌 About the Program
 
-The **Google Cloud GenAI Academy APAC Edition** is a hands-on learning program powered by Google Cloud and Hack2Skill. It covers building real-world AI solutions using tools like **Gemini**, **Agent Development Kit (ADK)**, **AlloyDB** and **Model Context Protocol (MCP)**.
+The **Google Cloud GenAI Academy APAC Edition** is a hands-on learning program powered by Google Cloud. It covers building real-world AI solutions using tools like **Gemini**, **Agent Development Kit (ADK)**, **AlloyDB** and **Model Context Protocol (MCP)**.
 
 ---
 
