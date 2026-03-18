@@ -1,20 +1,21 @@
-# 🌏 Google Cloud GenAI Academy — APAC Edition
-
+<div align="center">
+  
+# Google Cloud GenAI Academy — APAC Edition
+</div>
 <div align="center">
 
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini_AI-8E44AD?style=for-the-badge&logo=google&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-In_Progress-F4B400?style=for-the-badge)
 
-Tracking my learning journey, codelabs, and projects across all 3 tracks of the Google Cloud GenAI Academy APAC Edition.
+Tracking my learning journey, codelabs and projects across all 3 tracks of the Google Cloud GenAI Academy APAC Edition.
 
 </div>
 
----
 
 ## 📌 About the Program
 
-The **Google Cloud GenAI Academy APAC Edition** is a hands-on learning program powered by Google Cloud and Hack2Skill. It covers building real-world AI solutions using tools like **Gemini**, **Agent Development Kit (ADK)**, **AlloyDB**, and **Model Context Protocol (MCP)**.
+The **Google Cloud GenAI Academy APAC Edition** is a hands-on learning program powered by Google Cloud and Hack2Skill. It covers building real-world AI solutions using tools like **Gemini**, **Agent Development Kit (ADK)**, **AlloyDB** and **Model Context Protocol (MCP)**.
 
 ---
 
@@ -56,7 +57,6 @@ google-cloud-genai-academy-apac/
 
 **Key Concepts:** Agent Development Kit · Cloud Run · Agent Deployment · Google Cloud AI
 
----
 
 ## 🗺️ Track 2 — Location Intelligence & MCP
 
@@ -69,7 +69,6 @@ google-cloud-genai-academy-apac/
 
 **Key Concepts:** Model Context Protocol (MCP) · BigQuery · Location AI · ADK + MCP Integration
 
----
 
 ## 🛢️ Track 3 — AlloyDB & Real-Time AI
 
@@ -81,7 +80,6 @@ google-cloud-genai-academy-apac/
 | 2 | Building a Real-Time Surplus Engine with Gemini 3 Flash & AlloyDB | Done | |
 
 **Key Concepts:** AlloyDB · Gemini Flash · Real-Time Processing · Vector Search
-
 ---
 
 ## 📊 Overall Progress
@@ -93,7 +91,6 @@ google-cloud-genai-academy-apac/
 | Track 3 — AlloyDB & Gemini | 1 / 2 | Pending|
 | **Total** | **5 / 6** | 🔄 In Progress |
 
----
 
 ## 🛠️ Tech Stack
 
@@ -103,17 +100,13 @@ google-cloud-genai-academy-apac/
 ![AlloyDB](https://img.shields.io/badge/AlloyDB-4285F4?style=flat&logo=google&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini_Flash-8E44AD?style=flat&logo=google&logoColor=white)
 
----
 
 ## 📚 Resources
-
-- 🔗 [Program Dashboard](https://vision.hack2skill.com/event/apac-genaiacademy)
 - 📖 [Google Cloud ADK Docs](https://cloud.google.com/agent-builder)
 - 🧪 [Google Cloud Codelabs](https://codelabs.developers.google.com/)
 - 💡 [Gemini API Docs](https://ai.google.dev/)
 
----
-
+<!--
 ## 📝 My Learnings
 
 > I'll update this section as I complete each track.
@@ -121,7 +114,7 @@ google-cloud-genai-academy-apac/
 - 
 
 ---
-
+-->
 <div align="center">
 
 Made with ❤️ by Sakshi · Google Cloud GenAI Academy APAC 2026
