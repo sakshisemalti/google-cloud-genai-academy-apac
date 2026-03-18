@@ -5,7 +5,6 @@
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini_AI-8E44AD?style=for-the-badge&logo=google&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-In_Progress-F4B400?style=for-the-badge)
-![Program](https://img.shields.io/badge/Hack2Skill-APAC_2026-0F9D58?style=for-the-badge)
 
 **Participant: Sakshi**  
 Tracking my learning journey, codelabs, and projects across all 3 tracks of the Google Cloud GenAI Academy APAC Edition.
@@ -53,8 +52,8 @@ google-cloud-genai-academy-apac/
 
 | # | Codelab | Status | Notes |
 |---|---------|--------|-------|
-| 1 | Build and deploy an ADK agent on Cloud Run | ⬜ Pending | |
-| 2 | Building AI Agents with ADK: The Foundation | ⬜ Pending | |
+| 1 | Build and deploy an ADK agent on Cloud Run | Done | |
+| 2 | Building AI Agents with ADK: The Foundation | Done | |
 
 **Key Concepts:** Agent Development Kit · Cloud Run · Agent Deployment · Google Cloud AI
 
@@ -66,8 +65,8 @@ google-cloud-genai-academy-apac/
 
 | # | Codelab | Status | Notes |
 |---|---------|--------|-------|
-| 1 | Build a Location Intelligence ADK Agent with MCP | ⬜ Pending | |
-| 2 | MCP Toolbox for Databases: BigQuery | ⬜ Pending | |
+| 1 | Build a Location Intelligence ADK Agent with MCP | Done | |
+| 2 | MCP Toolbox for Databases: BigQuery | Done | |
 
 **Key Concepts:** Model Context Protocol (MCP) · BigQuery · Location AI · ADK + MCP Integration
 
@@ -79,8 +78,8 @@ google-cloud-genai-academy-apac/
 
 | # | Codelab | Status | Notes |
 |---|---------|--------|-------|
-| 1 | AlloyDB Quick Setup | ⬜ Pending | |
-| 2 | Building a Real-Time Surplus Engine with Gemini 3 Flash & AlloyDB | ⬜ Pending | |
+| 1 | AlloyDB Quick Setup | Done | |
+| 2 | Building a Real-Time Surplus Engine with Gemini 3 Flash & AlloyDB | Done | |
 
 **Key Concepts:** AlloyDB · Gemini Flash · Real-Time Processing · Vector Search
 
@@ -90,10 +89,10 @@ google-cloud-genai-academy-apac/
 
 | Track | Codelabs Done | Status |
 |-------|--------------|--------|
-| Track 1 — ADK Agents | 0 / 2 | ⬜ Not Started |
-| Track 2 — Location & MCP | 0 / 2 | ⬜ Not Started |
-| Track 3 — AlloyDB & Gemini | 0 / 2 | ⬜ Not Started |
-| **Total** | **0 / 6** | 🔄 In Progress |
+| Track 1 — ADK Agents | 2 / 2 | Completed |
+| Track 2 — Location & MCP | 2 / 2 | Completed|
+| Track 3 — AlloyDB & Gemini | 1 / 2 | Pending|
+| **Total** | **5 / 6** | 🔄 In Progress |
 
 ---
 
