@@ -88,8 +88,8 @@ google-cloud-genai-academy-apac/
 |-------|--------------|--------|
 | Track 1 — ADK Agents | 2 / 2 | Completed |
 | Track 2 — Location & MCP | 2 / 2 | Completed|
-| Track 3 — AlloyDB & Gemini | 1 / 2 | Pending|
-| **Total** | **5 / 6** | 🔄 In Progress |
+| Track 3 — AlloyDB & Gemini | 2 / 2 | Completed|
+| **Total** | **6 / 6** | Completed |
 
 
 ## 🛠️ Tech Stack
